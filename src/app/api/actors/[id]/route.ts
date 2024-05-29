@@ -1,4 +1,4 @@
-//https://blog.logrocket.com/using-next-js-route-handlers/
+
 
 import { getById } from "@/app/lib/data";
 import { NextRequest, NextResponse } from "next/server";
